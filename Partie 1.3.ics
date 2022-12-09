@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20221107T140000Z
+DTEND:20221107T142000Z
+DTSTAMP:20221028T120338Z
+ORGANIZER;CN=wijdane.akkad@nimbleways.com:mailto:wijdane.akkad@nimbleways.c
+ om
+UID:0188r4fcbvgq8hafdlt8738gbo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=arbaoui.anass@ine.inpt.ma;X-NUM-GUESTS=0:mailto:arbaoui.anass@ine.i
+ npt.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sonia.el-ghazi@nimbleways.com;X-NUM-GUESTS=0:mailto:sonia.el-ghazi@
+ nimbleways.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=wijdane.akkad@nimbleways.com;X-NUM-GUESTS=0:mailto:wijdane.akkad@nimble
+ ways.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ctm-cosm-enq
+X-MICROSOFT-CDO-OWNERAPPTID:490688369
+CREATED:20221028T120334Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ct
+ m-cosm-enq\nOr dial: (ZA) +27 10 823 0653 PIN: 955630887#\nMore phone numbe
+ rs: https://tel.meet/ctm-cosm-enq?pin=7169829816068&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221028T120334Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Anass ARBAOUI
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
